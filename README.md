@@ -1,6 +1,6 @@
 # Soda Retailers Sales
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 The project aims to leverage sales data to provide actionable insights that enhance decision making, optimize operations, improve marketing strategies and ultimately drive revenue growth for Soda Retailers.
 
